@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Twenty Twenty Font Fix
- * Description:       Fixes a font issue within the default Twenty Twenty theme that appears in Chrome on macOS.
+ * Description:       This WordPress plugin is a temporary solution for the font rendering issue introduced in Chrome 79.0.3945.88.
  * Version:           1.0.0
  * Author:            Joseph Fusco
  * Author URI:        https://josephfus.co
