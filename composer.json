@@ -1,0 +1,9 @@
+{
+	"name": "josephfusco/twentytwenty-font-fix",
+	"description": "This WordPress plugin is a temporary solution for the font rendering issue introduced in Chrome 79.0.3945.88.",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"support": {
+		"issues": "https://github.com/josephfusco/twentytwenty-font-fix/issues"
+	}
+}
